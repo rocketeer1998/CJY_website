@@ -2,3 +2,36 @@ baseURL = 'https://rocketeer1998.org/'
 languageCode = 'en-us'
 title = 'Jiayu Chen'
 theme = 'ananke'
+
+
+[params]
+  subtitle = 'RA in Uppsala University'
+  [params.contact]
+    email = 'jiayu.chen@igp.uu.se'
+    phone = '+46 0720101251'
+    
+[menu]
+
+  [[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+  [[menu.main]]
+  identifier = "publication"
+  name = "Publication"
+  url = "/publication/"
+  weight = 3
+  
+  [[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/posts/"
+  weight = 4
