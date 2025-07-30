@@ -1,0 +1,4 @@
+baseURL = 'https://rocketeer1998.org/'
+languageCode = 'en-us'
+title = 'Jiayu Chen'
+theme = 'ananke'
