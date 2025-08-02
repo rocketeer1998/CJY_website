@@ -17,6 +17,15 @@ theme = 'ananke'
   url = "/blog/"
   weight = 4
 
+###
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
+
 
     
     

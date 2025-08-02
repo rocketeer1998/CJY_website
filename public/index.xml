@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiayu Chen</title>
-    <link>http://localhost:57890/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Jiayu Chen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:57890/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:57890/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57890/about/</guid>
-      <description>&lt;h1 id=&#34;-ground-control-to-my-friends&#34;&gt;👋 Ground control to my friends!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:57890/images/IMG_8815.JPG&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My name is Jiayu Chen, and I’m from Xiamen, China. Now I&amp;rsquo;m a research assistant in Uppsala University with a passion for the development of novel molecular technologies in the realm of biomedical engineering.&lt;/p&gt;&#xA;&lt;p&gt;I’m particularly interested in:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Single-cell and spatial multi-omics&lt;/li&gt;&#xA;&lt;li&gt;Exploratory analysis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Outside of the lab, I enjoy running, music, reading, and hiking.&lt;/p&gt;&#xA;&lt;p&gt;Feel free to &lt;a href=&#34;mailto:jiayu.chen@igp.uu.se&#34;&gt;contact me&lt;/a&gt;!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;-ground-control-to-my-friends&#34;&gt;👋 Ground control to my friends!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_8815.JPG&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My name is Jiayu Chen, and I’m from Xiamen, China. Now I&amp;rsquo;m a research assistant in Uppsala University with a passion for the development of novel molecular technologies in the realm of biomedical engineering.&lt;/p&gt;&#xA;&lt;p&gt;I’m particularly interested in:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Single-cell and spatial multi-omics&lt;/li&gt;&#xA;&lt;li&gt;Exploratory analysis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Outside of the lab, I enjoy running, music, reading, and hiking.&lt;/p&gt;&#xA;&lt;p&gt;Feel free to &lt;a href=&#34;mailto:jiayu.chen@igp.uu.se&#34;&gt;contact me&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>http://localhost:57890/publication/</link>
+      <link>http://localhost:1313/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57890/publication/</guid>
+      <guid>http://localhost:1313/publication/</guid>
       <description>&lt;h1 id=&#34;2024&#34;&gt;2024&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.lfs.2025.123776&#34;&gt;Du A, Chen J, Xie Z, et al. Multi-omics analysis of outer membrane vesicles from P. goldsteinii in a psoriasis mouse model[J]. Life Sciences, 2025: 123776.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1021/acs.analchem.4c04229&#34;&gt;Qiu Y, Liu Y, Zheng W, et al. Visualization of Protein–Protein Interaction In Situ Using Hybridization-Enhanced Proximity Ligation Assay[J]. Analytical Chemistry, 2024, 96(50): 19863-19868.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1007/s00216-024-05327-4&#34;&gt;Liu Y, Chen J, Lin C, et al. Multiplexed in situ RNA imaging by combFISH[J]. Analytical and Bioanalytical Chemistry, 2024, 416(16): 3765–3774.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:57890/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57890/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;Please feel free to contact me.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Phone: (Sweden) +46 0720101251, (China) +86 18677598237&lt;/li&gt;&#xA;&lt;li&gt;E-mail: &lt;a href=&#34;mailto:jiayu.chen@igp.uu.se&#34;&gt;jiayu.chen@igp.uu.se&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;WeChat: 18677598237&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>2025-08-02 第一次搬家</title>
-      <link>http://localhost:57890/blog/post2/</link>
+      <link>http://localhost:1313/blog/post2/</link>
       <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57890/blog/post2/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:57890/images/IMG_20250801_211656.JPG&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;昨天下午三点正式入住Norbyvägen 20了，可以自己做饭，空间也很大，非常满足！&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/post2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_20250801_211656.JPG&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;昨天下午三点正式入住Norbyvägen 20了，可以自己做饭，空间也很大，非常满足！&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-07-31 抵瑞后第一个日记</title>
-      <link>http://localhost:57890/blog/post1/</link>
+      <link>http://localhost:1313/blog/post1/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57890/blog/post1/</guid>
-      <description>&lt;h1 id=&#34;hej-uppsala&#34;&gt;Hej, Uppsala!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:57890/images/IMG_20250722_185025.JPG&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;来瑞典乌普萨拉快两周了，明天准备搬家到第一个住所Norbyvägen 20。虽然已是晚上八点四十，但窗外依旧阳光明媚。&lt;/p&gt;&#xA;&lt;p&gt;对于自己已经到达瑞典并开始学习这件事，我还是没缓过神来，恍恍惚惚的。生活和工作方面并没有像想象中的那样，有那么多东西需要适应。相反的，我感觉现在的生活和之前设想的没什么两样，好多事情我都早已有心理准备和大概想法。或许是因为这是我梦寐已久的生活，我早已在脑海中演练和想象过无数遍了。&lt;/p&gt;&#xA;&lt;p&gt;工作上，工位环境十分安静，不会有同事经常来打扰，就连老板来push我的时候都显得十分客气和礼貌。陈老板是一个十分努力的人，他在19年才来乌普萨拉大学创办实验室，短短六年时间就拿了很多基金，以及有过不错的成果。和他讨论问题时，他十分追求把问题具体化并快速落地推进，这和我在国内华大的时候是不一样的。研究内容方面，老板给我分配了两个项目，一个分析项目旨在让我熟悉分析环境，当作未来研究的保底。另一个项目是技术开发，比较有挑战性。同事方面，目前是暑假，所以有些人在假期，但大部分都见到了，比如zhi wang, julia, mathilda, ram，大家都很不错。&lt;/p&gt;&#xA;&lt;p&gt;生活上，由于还不能做饭，所以每天吃的东西有点让人苦恼，只能买些超市的速食产品或者沙拉吃。时差基本上是倒过来了，但是有时候晚上这里会很吵，所以入睡比较晚。目前去过的景点还不算多，一是因为目前玩的心思不大，二是乌村太小了，大部分都是自然景点。目前生活方面基本算是稳定下来了，办了电话卡和公交卡，人口号还在等，等到了之后才能办银行卡，老板说payment只会推迟，不会不给，所以没什么需要担心的。自行车目前还是不敢买，很容易被偷，加上冬天骑不了，而且住处离BMC只有1.2公里，所以大概率是先不买了，存钱！&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/post1/</guid>
+      <description>&lt;h1 id=&#34;hej-uppsala&#34;&gt;Hej, Uppsala!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_20250722_185025.JPG&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;来瑞典乌普萨拉快两周了，明天准备搬家到第一个住所Norbyvägen 20。虽然已是晚上八点四十，但窗外依旧阳光明媚。&lt;/p&gt;&#xA;&lt;p&gt;对于自己已经到达瑞典并开始学习这件事，我还是没缓过神来，恍恍惚惚的。生活和工作方面并没有像想象中的那样，有那么多东西需要适应。相反的，我感觉现在的生活和之前设想的没什么两样，好多事情我都早已有心理准备和大概想法。或许是因为这是我梦寐已久的生活，我早已在脑海中演练和想象过无数遍了。&lt;/p&gt;&#xA;&lt;p&gt;工作上，工位环境十分安静，不会有同事经常来打扰，就连老板来push我的时候都显得十分客气和礼貌。陈老板是一个十分努力的人，他在19年才来乌普萨拉大学创办实验室，短短六年时间就拿了很多基金，以及有过不错的成果。和他讨论问题时，他十分追求把问题具体化并快速落地推进，这和我在国内华大的时候是不一样的。研究内容方面，老板给我分配了两个项目，一个分析项目旨在让我熟悉分析环境，当作未来研究的保底。另一个项目是技术开发，比较有挑战性。同事方面，目前是暑假，所以有些人在假期，但大部分都见到了，比如zhi wang, julia, mathilda, ram，大家都很不错。&lt;/p&gt;&#xA;&lt;p&gt;生活上，由于还不能做饭，所以每天吃的东西有点让人苦恼，只能买些超市的速食产品或者沙拉吃。时差基本上是倒过来了，但是有时候晚上这里会很吵，所以入睡比较晚。目前去过的景点还不算多，一是因为目前玩的心思不大，二是乌村太小了，大部分都是自然景点。目前生活方面基本算是稳定下来了，办了电话卡和公交卡，人口号还在等，等到了之后才能办银行卡，老板说payment只会推迟，不会不给，所以没什么需要担心的。自行车目前还是不敢买，很容易被偷，加上冬天骑不了，而且住处离BMC只有1.2公里，所以大概率是先不买了，存钱！&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
