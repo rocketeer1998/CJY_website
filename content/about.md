@@ -6,7 +6,7 @@ weight = 2
 
 # 👋 Ground control to my friends!
 
-![bg](/images/IMG_8815.JPG)
+![bg](images/IMG_8815.JPG)
 
 My name is Jiayu Chen, and I’m from Xiamen, China. Now I'm a research assistant in Uppsala University with a passion for the development of novel molecular technologies in the realm of biomedical engineering.
 

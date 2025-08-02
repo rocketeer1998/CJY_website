@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:59496/CJY_website/</loc>
     <lastmod>2025-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:59496/CJY_website/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>http://localhost:59496/CJY_website/publication/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://localhost:59496/CJY_website/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/post2/</loc>
+    <loc>http://localhost:59496/CJY_website/blog/post2/</loc>
     <lastmod>2025-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:59496/CJY_website/blog/</loc>
     <lastmod>2025-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post1/</loc>
+    <loc>http://localhost:59496/CJY_website/blog/post1/</loc>
     <lastmod>2025-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:59496/CJY_website/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:59496/CJY_website/tags/</loc>
   </url>
 </urlset>

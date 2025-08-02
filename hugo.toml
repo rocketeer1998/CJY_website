@@ -3,6 +3,8 @@ baseURL = 'https://rocketeer1998.github.io/CJY_website/'
 languageCode = 'en-us'
 title = 'Jiayu Chen'
 theme = 'ananke'
+relativeURLs = true
+canonifyURLs = false
 
 ### no effect
 #[params]
