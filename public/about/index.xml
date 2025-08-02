@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Jiayu Chen</title>
+    <link>http://localhost:55135/about/</link>
+    <description>Recent content in Abouts on Jiayu Chen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:55135/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:55135/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55135/about/about/</guid>
+      <description>&lt;h1 id=&#34;-ground-control-to-my-friends&#34;&gt;👋 Ground control to my friends!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:55135/images/IMG_8815.JPG&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My name is Jiayu Chen, and I’m a research assistant in Uppsala University with a passion for the development of novel molecular technologies in the realm of biomedical engineering.&lt;/p&gt;&#xA;&lt;p&gt;I’m particularly interested in:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Single-cell and spatial multi-omics&lt;/li&gt;&#xA;&lt;li&gt;Exploratory analysis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Outside of the lab, I enjoy running, music, reading, and hiking.&lt;/p&gt;&#xA;&lt;p&gt;Feel free to &lt;a href=&#34;mailto:jiayu.chen@igp.uu.se&#34;&gt;contact me&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
