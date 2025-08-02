@@ -1,5 +1,5 @@
 ### title
-baseURL = 'https://github.com/rocketeer1998/CJY_website'
+baseURL = 'https://rocketeer1998.github.io/'
 languageCode = 'en-us'
 title = 'Jiayu Chen'
 theme = 'ananke'
