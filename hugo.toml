@@ -5,7 +5,7 @@ baseURL = "https://rocketeer1998.github.io/CJY_website/"
 languageCode = 'en-us'
 title = 'Jiayu Chen'
 theme = 'ananke'
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = true
 
 ### no effect
@@ -21,11 +21,6 @@ canonifyURLs = true
   url = "/blog/"
   weight = 4
 
-### 
-[mediaTypes]
-  [mediaTypes.'image/jpeg']
-    delimiter = '.'
-    suffixes = ['jpg', 'jpeg', 'jpe', 'jif', 'jfif']
     
 
     
