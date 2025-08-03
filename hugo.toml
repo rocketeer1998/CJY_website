@@ -8,22 +8,27 @@ theme = 'ananke'
 relativeURLs = false
 canonifyURLs = true
 
-### no effect
-#[params]
-#  subtitle = 'RA in Uppsala University'
-#  [params.contact]
-#    email = 'jiayu.chen@igp.uu.se'
-#    phone = '+46 0720101251'
-  
+### social networks
+[params.ananke.social.follow]
+new_window_icon = true
+networks = ["github", "bluesky", "instagram"]
+
+[params.ananke.social.github]
+username = "rocketeer1998"
+profilelink = "https://github.com/rocketeer1998"
+
+[params.ananke.social.bluesky]
+username = "rocketeer1998.bsky.social"
+
+[params.ananke.social.instagram]
+username = "jiayu83439"
+
 ### menu  
 [[menu.main]]
   name = "Blog"
   url = "/blog/"
   weight = 4
 
-    
-
-    
     
     
     
