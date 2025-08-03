@@ -7,29 +7,27 @@
   <meta name="Generator" content="Cocoa HTML Writer">
   <meta name="CocoaVersion" content="2575.6">
   <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
   </style>
 </head>
 <body>
-<p class="p1">&lt;head&gt;</p>
-<p class="p1"><span class="Apple-converted-space">  </span>&lt;meta charset="utf-8"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">  </span>&lt;meta name="viewport" content="width=device-width,initial-scale=1"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">  </span>&lt;meta name="generator" content="Hugo"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">  </span>&lt;title&gt;{{ .Title }}&lt;/title&gt;</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">  </span>{{ with .Site.Params.description }}</p>
-<p class="p1"><span class="Apple-converted-space">  </span>&lt;meta name="description" content="{{ . }}"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">  </span>{{ end }}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">  </span>{{ if .Site.Params.favicon }}</p>
-<p class="p1"><span class="Apple-converted-space">  </span>&lt;link rel="shortcut icon" href="{{ .Site.Params.favicon | relURL }}"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">  </span>{{ end }}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">  </span>&lt;!-- ✅ 关键修改：relURL 会自动加上 /CJY_website 前缀 --&gt;</p>
-<p class="p1"><span class="Apple-converted-space">  </span>&lt;link rel="stylesheet" href="{{ "css/main.css" | relURL }}"&gt;</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">  </span>&lt;!-- 你也可以添加其他自定义样式、JS 资源 --&gt;</p>
-<p class="p1">&lt;/head&gt;</p>
+<p class="p1"><span class="s1">&lt;head&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;meta charset="utf-8" /&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;meta name="viewport" content="width=device-width,initial-scale=1" /&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;meta name="generator" content="Hugo" /&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;title&gt;{{ .Title }}&lt;/title&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ with .Site.Params.description }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;meta name="description" content="{{ . }}" /&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ end }}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ if .Site.Params.favicon }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;link rel="shortcut icon" href="{{ .Site.Params.favicon | relURL }}" /&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ end }}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;link rel="stylesheet" href="{{ "css/main.css" | relURL }}" /&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/head&gt;</span></p>
 </body>
 </html>
