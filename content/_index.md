@@ -1,7 +1,7 @@
 +++
 menu = ""
 weight = 1
-featured_image = "images/background.JPG"
+featured_image = "/images/background.JPG"
 +++
 
 # 🇨🇳Hello world!🇸🇪
