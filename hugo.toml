@@ -25,10 +25,10 @@ username = "jiayu83439"
 
 ### menu  
 [[menu.main]]
+  
   name = "Blog"
   url = "/blog/"
   weight = 4
-
     
     
     

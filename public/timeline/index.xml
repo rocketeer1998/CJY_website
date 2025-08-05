@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timelines on Jiayu Chen</title>
+    <link>http://localhost:1313/CJY_website/timeline/</link>
+    <description>Recent content in Timelines on Jiayu Chen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/CJY_website/timeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Timeline</title>
+      <link>http://localhost:1313/CJY_website/timeline/timeline/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/CJY_website/timeline/timeline/</guid>
+      <description>&lt;h1 id=&#34;-my-journey&#34;&gt;📜 My Journey&lt;/h1&gt;&#xA;&lt;div class=&#34;timeline-item&#34;&gt;&#xA;  &lt;div class=&#34;timeline-date&#34;&gt;2025&lt;/div&gt;&#xA;  &lt;div class=&#34;timeline-content&#34;&gt;&#xA;    &lt;ul&gt;&#xA;&lt;li&gt;📘 Started research at Uppsala University&lt;/li&gt;&#xA;&lt;li&gt;🧪 Published paper on scRNA-seq&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;timeline-item&#34;&gt;&#xA;  &lt;div class=&#34;timeline-date&#34;&gt;2024&lt;/div&gt;&#xA;  &lt;div class=&#34;timeline-content&#34;&gt;&#xA;    &lt;ul&gt;&#xA;&lt;li&gt;🎓 Graduated from Master&amp;rsquo;s in Bioinformatics&lt;/li&gt;&#xA;&lt;li&gt;💻 Internship at XYZ Biotech&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;timeline-item&#34;&gt;&#xA;  &lt;div class=&#34;timeline-date&#34;&gt;2023&lt;/div&gt;&#xA;  &lt;div class=&#34;timeline-content&#34;&gt;&#xA;    &lt;ul&gt;&#xA;&lt;li&gt;🧬 Began working on cancer TME analysis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
