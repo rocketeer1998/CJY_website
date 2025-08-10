@@ -3,7 +3,7 @@ title = "2025-08-10 适应环境"
 date = 2025-08-10
 +++
 
-![bg](/images/IMG_0308.JPG)
+![bg](/images/IMG_0308.jpg)
 
 第三周过去了，总体来说体验不错，我很知足。
 
@@ -19,6 +19,6 @@ date = 2025-08-10
 ![bg](/images/IMG_20250803_151211.JPG)
 
 **Yellow Trail (10 km)**
-![bg](/images/IMG_0279.JPG)
+![bg](/images/IMG_0279.jpg)
 
 
