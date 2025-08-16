@@ -1,6 +1,8 @@
 +++
 title = "2025-08-10 适应环境"
 date = 2025-08-10
+tags = ["diary"]
+categories = ["life"]
 +++
 
 ![bg](/images/IMG_0308.jpg)

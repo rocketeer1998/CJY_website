@@ -1,6 +1,8 @@
 +++
 title = "2025-08-02 第一次搬家"
 date = 2025-08-02
+tags = ["diary"]
+categories = ["life"]
 +++
 
 ![bg](/images/IMG_20250801_211656.JPG)

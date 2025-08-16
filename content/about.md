@@ -28,14 +28,14 @@ Feel free to [contact me](mailto:jiayu.chen@igp.uu.se)!
 2022.09-2025.06  
 
 **🇬🇧University College London | MS Drug Discovery and Development**  
-Dropped out due to financial crisis on 2020.09  
+Dropped out due to financial crisis on 2020.12 
 
 **🇨🇳Huaqiao University | BS Pharmaceutics (in English)**  
 2016.09-2020.06  
 
 # Work experience
 
-**Dynamic Biosystems | Bioinformatician Intern**  
+**Dynamic Biosystems | Bioinformatician**  
 2022.09-2025.03
 
 **SEERNA Bioscience | Bioinformatician**  

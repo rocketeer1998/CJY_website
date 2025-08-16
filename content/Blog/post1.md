@@ -1,6 +1,8 @@
 +++
 title = "2025-07-31 抵瑞后第一个日记"
 date = 2025-07-31
+tags = ["diary"]
+categories = ["life"]
 +++
 
 # Hej, Uppsala!
