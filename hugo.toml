@@ -32,7 +32,8 @@ username = "jiayu83439"
 
 ### word limit
 [params]
-  summaryLength = 100
+read_more_copy = "Continue reading »"
+
     
     
     
