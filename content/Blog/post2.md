@@ -9,3 +9,4 @@ categories = ["life"]
 
 昨天下午三点正式入住Norbyvägen 20了，可以自己做饭，空间也很大，非常满足！
 
+

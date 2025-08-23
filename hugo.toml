@@ -30,7 +30,9 @@ username = "jiayu83439"
   url = "/blog/"
   weight = 4
 
-
+### word limit
+[params]
+  summaryLength = 100
     
     
     
