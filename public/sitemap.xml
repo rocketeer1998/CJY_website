@@ -2,43 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:53595/CJY_website/</loc>
+    <loc>http://localhost:62101/CJY_website/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62101/CJY_website/about/</loc>
+  </url><url>
+    <loc>http://localhost:62101/CJY_website/publication/</loc>
+  </url><url>
+    <loc>http://localhost:62101/CJY_website/contact/</loc>
+  </url><url>
+    <loc>http://localhost:62101/CJY_website/blog/post6/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62101/CJY_website/blog/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62101/CJY_website/categories/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62101/CJY_website/tags/diary/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62101/CJY_website/categories/life/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62101/CJY_website/tags/</loc>
+    <lastmod>2025-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62101/CJY_website/blog/post5/</loc>
     <lastmod>2025-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53595/CJY_website/about/</loc>
-  </url><url>
-    <loc>http://localhost:53595/CJY_website/publication/</loc>
-  </url><url>
-    <loc>http://localhost:53595/CJY_website/contact/</loc>
-  </url><url>
-    <loc>http://localhost:53595/CJY_website/blog/post5/</loc>
-    <lastmod>2025-08-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53595/CJY_website/blog/</loc>
-    <lastmod>2025-08-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53595/CJY_website/categories/</loc>
-    <lastmod>2025-08-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53595/CJY_website/tags/diary/</loc>
-    <lastmod>2025-08-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53595/CJY_website/categories/life/</loc>
-    <lastmod>2025-08-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53595/CJY_website/tags/</loc>
-    <lastmod>2025-08-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53595/CJY_website/blog/post4/</loc>
+    <loc>http://localhost:62101/CJY_website/blog/post4/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53595/CJY_website/blog/post3/</loc>
+    <loc>http://localhost:62101/CJY_website/blog/post3/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53595/CJY_website/blog/post2/</loc>
+    <loc>http://localhost:62101/CJY_website/blog/post2/</loc>
     <lastmod>2025-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53595/CJY_website/blog/post1/</loc>
+    <loc>http://localhost:62101/CJY_website/blog/post1/</loc>
     <lastmod>2025-07-31T00:00:00+00:00</lastmod>
   </url>
 </urlset>

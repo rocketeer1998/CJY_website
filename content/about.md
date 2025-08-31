@@ -71,3 +71,4 @@ Dropped out due to financial crisis on 2020.12
 **Older Me**
 ![pc](/images/IMG_7560.JPG)
 
+

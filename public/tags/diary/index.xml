@@ -2,46 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diary on Jiayu Chen</title>
-    <link>http://localhost:53595/CJY_website/tags/diary/</link>
+    <link>http://localhost:62101/CJY_website/tags/diary/</link>
     <description>Recent content in Diary on Jiayu Chen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:53595/CJY_website/tags/diary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:62101/CJY_website/tags/diary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025-08-31 八月再见</title>
+      <link>http://localhost:62101/CJY_website/blog/post6/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:62101/CJY_website/blog/post6/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:62101/CJY_website/images/IMG_20250831_120626.JPG&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;周日晚，送走我在瑞典的第一个八月。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2025-08-23 享受孤独</title>
-      <link>http://localhost:53595/CJY_website/blog/post5/</link>
+      <link>http://localhost:62101/CJY_website/blog/post5/</link>
       <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53595/CJY_website/blog/post5/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:53595/CJY_website/images/IMG_0437.jpeg&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;现在是周六晚上，刚吃完自己弄的番茄意面。窗外风大，而且阴沉沉的。&lt;/p&gt;</description>
+      <guid>http://localhost:62101/CJY_website/blog/post5/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:62101/CJY_website/images/IMG_0437.jpeg&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;现在是周六晚上，刚吃完自己弄的番茄意面。窗外风大，而且阴沉沉的。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-08-16 规律生活</title>
-      <link>http://localhost:53595/CJY_website/blog/post4/</link>
+      <link>http://localhost:62101/CJY_website/blog/post4/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53595/CJY_website/blog/post4/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:53595/CJY_website/images/IMG_20250816_114649.JPG&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;现在是第四周的末尾，来瑞典有将近一个月的时间了。人口号还没消息，所以工资还发不了，下周得去和xingqi咨询下没有银行卡能否发奖学金。&lt;/p&gt;</description>
+      <guid>http://localhost:62101/CJY_website/blog/post4/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:62101/CJY_website/images/IMG_20250816_114649.JPG&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;现在是第四周的末尾，来瑞典有将近一个月的时间了。人口号还没消息，所以工资还发不了，下周得去和xingqi咨询下没有银行卡能否发奖学金。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-08-10 适应环境</title>
-      <link>http://localhost:53595/CJY_website/blog/post3/</link>
+      <link>http://localhost:62101/CJY_website/blog/post3/</link>
       <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53595/CJY_website/blog/post3/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:53595/CJY_website/images/IMG_0308.jpg&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;第三周过去了，总体来说体验不错，我很知足。&lt;/p&gt;</description>
+      <guid>http://localhost:62101/CJY_website/blog/post3/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:62101/CJY_website/images/IMG_0308.jpg&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;第三周过去了，总体来说体验不错，我很知足。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-08-02 第一次搬家</title>
-      <link>http://localhost:53595/CJY_website/blog/post2/</link>
+      <link>http://localhost:62101/CJY_website/blog/post2/</link>
       <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53595/CJY_website/blog/post2/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:53595/CJY_website/images/IMG_20250801_211656.JPG&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;昨天下午三点正式入住Norbyvägen 20了，可以自己做饭，空间也很大，非常满足！&lt;/p&gt;</description>
+      <guid>http://localhost:62101/CJY_website/blog/post2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:62101/CJY_website/images/IMG_20250801_211656.JPG&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;昨天下午三点正式入住Norbyvägen 20了，可以自己做饭，空间也很大，非常满足！&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025-07-31 抵瑞后第一个日记</title>
-      <link>http://localhost:53595/CJY_website/blog/post1/</link>
+      <link>http://localhost:62101/CJY_website/blog/post1/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53595/CJY_website/blog/post1/</guid>
-      <description>&lt;h1 id=&#34;hej-uppsala&#34;&gt;Hej, Uppsala!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:53595/CJY_website/images/IMG_20250722_185025.JPG&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;来瑞典乌普萨拉快两周了，明天准备搬家到第一个住所Norbyvägen 20。虽然已是晚上八点四十，但窗外依旧阳光明媚。&lt;/p&gt;</description>
+      <guid>http://localhost:62101/CJY_website/blog/post1/</guid>
+      <description>&lt;h1 id=&#34;hej-uppsala&#34;&gt;Hej, Uppsala!&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:62101/CJY_website/images/IMG_20250722_185025.JPG&#34; alt=&#34;bg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;来瑞典乌普萨拉快两周了，明天准备搬家到第一个住所Norbyvägen 20。虽然已是晚上八点四十，但窗外依旧阳光明媚。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
